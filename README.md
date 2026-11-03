@@ -1,10 +1,10 @@
-# Predicción de Churn en Telecomunicaciones — TPI Análisis de Datos
+# Análisis de Churn en Telecomunicaciones — TPI Análisis de Datos
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/facufan07/tpi-analisis-de-datos/blob/main/notebooks/TPI_Analisis_de_Datos.ipynb)
 
 ## Problema de negocio
 
-Una empresa de telecomunicaciones pierde ingresos cada vez que un cliente cancela su suscripción (*churn*). Este proyecto analiza el historial de clientes del dataset **Telco Customer Churn** para identificar qué perfiles sociodemográficos y condiciones de contratación se asocian a la cancelación, y construye modelos predictivos que permitan anticiparla y orientar acciones de retención.
+Una empresa de telecomunicaciones pierde ingresos cada vez que un cliente cancela su suscripción (*churn*). Este proyecto analiza el historial de clientes del dataset **Telco Customer Churn** para identificar qué perfiles sociodemográficos y condiciones de contratación se asocian a la cancelación, y entrena un modelo de regresión lineal simple para estimar una variable continua de facturación.
 
 ## Integrantes
 
@@ -29,7 +29,7 @@ Una empresa de telecomunicaciones pierde ingresos cada vez que un cliente cancel
 | Python 3 | Lenguaje principal |
 | Pandas / NumPy | Carga, limpieza, manipulación y agregación de datos |
 | Matplotlib / Seaborn | Visualización |
-| Scikit-Learn | Preprocesamiento y modelos de regresión y clasificación |
+| Scikit-Learn | Preprocesamiento y modelo de regresión |
 | Google Colab | Entorno de ejecución reproducible |
 | Git / GitHub | Control de versiones |
 
