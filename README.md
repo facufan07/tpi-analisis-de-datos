@@ -8,14 +8,15 @@ Una empresa de telecomunicaciones pierde ingresos cada vez que un cliente cancel
 
 ## Integrantes
 
-**División:** _completar_
+**Grupo:** 3  
+**División:** 343
 
 | Integrante | Usuario de GitHub |
 |---|---|
-| Nombre Apellido | usuario |
-| Nombre Apellido | usuario |
-| Nombre Apellido | usuario |
-| Nombre Apellido | usuario |
+| Nicolás Pérez | nicolas-Perz |
+| Lola Gonzalez Suarez | LolaGonzSua |
+| Lucas Gerez | LucasGerez03 |
+| Facundo Fandiño | facufan07 |
 
 ## Dataset
 
